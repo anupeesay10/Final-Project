@@ -7,8 +7,8 @@ Jonathan Zhou, email: joz58@pitt.edu
 Fire Incidents Data set https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
 
 Crash data Set:
-https://data.wprdc.org/dataset/allegheny-county-crash-data
-https://data.wprdc.org/dataset/westmoreland-county-crash-data
-https://data.wprdc.org/dataset/washington-county-crash-data
-https://data.wprdc.org/dataset/butler-county-crash-data
-https://data.wprdc.org/dataset/beaver-county-crash-data
+Allegheny: https://data.wprdc.org/dataset/allegheny-county-crash-data
+Westmoreland: https://data.wprdc.org/dataset/westmoreland-county-crash-data
+Wasthington: https://data.wprdc.org/dataset/washington-county-crash-data
+Butler: https://data.wprdc.org/dataset/butler-county-crash-data
+Beaver: https://data.wprdc.org/dataset/beaver-county-crash-data
