@@ -4,6 +4,8 @@ Mitchell Caplan, email: mic162@pitt.edu
 Anirudh Peesay, email: anp197@pitt.edu
 Jonathan Zhou, email: joz58@pitt.edu
 
+Group 2
+
 Fire Incidents Data set (used by Anirudh Peesay) https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
 
 Crash data Set(used by Jonathan Zhou):
