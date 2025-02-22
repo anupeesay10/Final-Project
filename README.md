@@ -11,7 +11,7 @@ Fire Incidents Data set (used by Anirudh Peesay) https://data.wprdc.org/dataset/
 Crash data Set(used by Jonathan Zhou):
 Allegheny: https://data.wprdc.org/dataset/allegheny-county-crash-data
 Westmoreland: https://data.wprdc.org/dataset/westmoreland-county-crash-data
-Wasthington: https://data.wprdc.org/dataset/washington-county-crash-data
+Washington: https://data.wprdc.org/dataset/washington-county-crash-data
 Butler: https://data.wprdc.org/dataset/butler-county-crash-data
 Beaver: https://data.wprdc.org/dataset/beaver-county-crash-data
 
